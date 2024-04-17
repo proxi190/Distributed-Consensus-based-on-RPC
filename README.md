@@ -1,1 +1,1 @@
-# brain_tumor
+# About the project
